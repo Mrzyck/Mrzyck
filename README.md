@@ -1,4 +1,6 @@
 <div align="center">
+<p align="left"> <img src="https://c4.wallpaperflare.com/wallpaper/530/748/39/anarchy-anonymous-computer-hack-wallpaper-preview.jpg" alt="bootstrap"/> 
+</div>
   
 
 ## Hey, I'm MrZyck 👋
@@ -13,9 +15,9 @@
 ## 🌱 What's Growing?
 ***I'm currently diving deep into <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> to unlock its potential for a positive change globally.***
 
-### 💡 Fun Fact
+### 👨🏻‍💻 Quote of the day 
 
-Did you know that [interesting tech-related fact]?
+- "You don't have to be a genius or a visionary or even a college graduate to be successful. You just need a framework and a dream." — Michael Dell
 
 - 🌱 I’m currently learning at ALX africa **Software engineering**
 
